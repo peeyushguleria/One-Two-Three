@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+  }
+  .button1 {
+    font-size: 30px;
+    background-color: white;
+    border: black 4px solid;
+    padding: 20px;
+    cursor: pointer;
+  }
+  .toggle-button {
+    background-color: black;
+    font-size: 30px;
+    border: white 4px solid;
+    padding: 20px;
+    cursor: pointer;
+    color: white;
+  }
